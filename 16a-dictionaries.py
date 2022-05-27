@@ -4,9 +4,6 @@
 # value can be any data types, like another dictionaries
 ###############################################################################
 
-from operator import methodcaller
-
-
 movie = {
     "title": "Amadeus",
     "review": 10379,
@@ -23,7 +20,7 @@ numbers = {
     3: "three"
 }
 
-# Accessing dictionaries - provide the key as an argument in a mivie["title"]
+# Accessing dictionaries - provide the key as an argument in a movie["title"]
 print(movie["title"])
 
 # Adding and updating value

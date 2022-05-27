@@ -31,7 +31,7 @@ print(waitlist)  # ['tom', 'aria', 'amar', 'juan']
 people = ['carl', 'marco']
 
 waitlist.extend(people)
-print(waitlist)  # ['tom', 'aiya', 'amar', 'carl', 'marco']
+print(waitlist)  # ['tom', 'aria', 'amar', 'carl', 'marco']
 
 # below is wrong 
 # waitlist.append(people) # this results in nested list ['tom', 'arya', 'amar', ['jess', 'marco'] ]
