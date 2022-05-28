@@ -12,6 +12,7 @@ peak = {
         "T-Mobile": "poor"
     }
 }
+
 # Without touching the original variable declaration (above)...
 # Add a "range" key to peak and set it equal to "Elk Mountains"
 peak["range"] = "Elk Mountains"
@@ -42,9 +43,9 @@ peak["elevation"] = elev
 print(peak)
 
 # Loop over the values in the dictionary and print them all out.  Don't ask why, just do it :)
-vals = peak.values()
-print(vals)
-for val in vals:
+# vals = peak.values()
+# print(vals)
+for val in peak.values():
     print(val)
 
 # Loop over the keys AND values in the dictionary and print them all out in the following format:
