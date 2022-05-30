@@ -22,4 +22,3 @@ while toothpick_count > 0:
         print(f"{player2} wins!!!")
     elif toothpick_count == 0 and isplayer1 == False:
         print(f"{player1} wins!!!")
-    

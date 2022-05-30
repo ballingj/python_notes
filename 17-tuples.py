@@ -28,4 +28,3 @@ dishes.index("taco")    # 1
 # for in loop
 for dish in dishes:
     print(dish)
-    

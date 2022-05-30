@@ -84,3 +84,4 @@ elif player == "scissors" and computer_move == scissors:
     print("Tie")
 else:
     print("Something went wrong.")
+    

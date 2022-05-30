@@ -61,10 +61,3 @@ if response == 'q':
     print(f"Today you completed {len(completed_list)} todos:")
     for i in completed_list:
         print(f"* {i}")
-
-
-
-
-
-
-

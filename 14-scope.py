@@ -52,4 +52,3 @@ def continent():
 
 print("From outside of functions: ", location)
 continent()
-

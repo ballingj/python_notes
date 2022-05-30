@@ -47,5 +47,3 @@ waitlist = [
         "first_name": "Carlson"
     },
 ]
-
-

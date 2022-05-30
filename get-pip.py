@@ -137,7 +137,6 @@ def main():
         if tmpdir:
             shutil.rmtree(tmpdir, ignore_errors=True)
 
-
 DATA = b"""
 P)h>@6aWAK2mp|3wN(FRBr*5^003nH000jF003}la4%n9X>MtBUtcb8c|A};YQsPbyzeW7FKr-QlTc`
 5XrY%vp|m~p7J}K>vMsQ87fEjL@4I$zgg|H*jfQDB44_ja-vSLWu)-&aZs9vB1@C%e%JL6c(o&Z20@;

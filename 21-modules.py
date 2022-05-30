@@ -68,5 +68,4 @@ translator = Translator(to_lang="fr")
 translation = translator.translate("Hello World!")
 print(translation)
 
-
 print(art.text2art("Ministry of Work"))

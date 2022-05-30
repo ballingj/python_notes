@@ -63,3 +63,4 @@ print(podium)
 # or use the more efficient range
 for indx in range(len(drivers)):
     print(f"{indx+1}. {drivers[indx]}")
+    

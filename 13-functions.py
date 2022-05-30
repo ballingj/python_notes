@@ -46,4 +46,3 @@ def get_total(price, qty=2, tax=0.02, discount=0):
 get_total(9.75, 5, 0.01, 0.2)  # this is not using named argument -- hard to tell what value goes to what parameters
 get_total(price = 9.75, qty = 5, tax = 0.01, discount = 0.2)  # arguments with key
 get_total(price=9.75, tax=0.01, qty=5,  discount=0.2)  # order does not matter if all keys are used
-

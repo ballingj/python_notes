@@ -14,4 +14,3 @@ for num in range(0,100,2):
 for num in range(10, 1, -1):
     print(num)
 # 10 to 2
-
