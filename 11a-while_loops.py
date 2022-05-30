@@ -20,3 +20,11 @@ while count < 8:
 while count > 0:
     print("*"*count)
     count-=1
+
+#  while True and breaking
+while True:
+    count1 = 0
+    while count1 != 10: 
+        print(count1)
+        count1 += 1
+    break
