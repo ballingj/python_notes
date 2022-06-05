@@ -1,8 +1,8 @@
 # string strip
-'   spacious   '.strip() # 'spacious'
-'   spacious   '.strip(" s") # 'paciou'
-'   spacious   '.lstrip() # 'spacious   '
-'   spacious   '.rstrip()  # '   spacious'
+'   spacious   '.strip() # 'spacious'  -- deletes spaces on left and right
+'   spacious   '.strip(" s")  # 'paciou'  -- deletes spaces on left and right
+'   spacious   '.lstrip() # 'spacious   '   -- deletes spaces only on left
+'   spacious   '.rstrip()  # '   spacious'  -- deletes spaces only on right
 
 
 # Replace
